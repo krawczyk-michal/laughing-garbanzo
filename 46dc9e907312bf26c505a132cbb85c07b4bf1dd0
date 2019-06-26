@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "47f3b252_049606fa",
+        "filename": "multiply",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1016642
+      },
+      "writtenOn": "2019-06-26T13:47:38Z",
+      "side": 0,
+      "message": "Hint: 9",
+      "range": {
+        "startLine": 2,
+        "startChar": 6,
+        "endLine": 2,
+        "endChar": 7
+      },
+      "revId": "46dc9e907312bf26c505a132cbb85c07b4bf1dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
